@@ -1,3 +1,3 @@
 # Mini-project
 
-Frontend Project
+Frontend Mini-Project
